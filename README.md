@@ -2,11 +2,11 @@
 
 <img src="https://fandaburg.com/logo.png" alt="fandaburg logo" width="96">
 
-**Galien** is fandaburg's agent access. [fandaburg](https://fandaburg.com) is a
-sports prediction market for fans — fans predict games, take part in free
-community polls, follow live match commentary, and talk about the sports they
-love: soccer, NFL, NBA, NHL, baseball, tennis and more, in English, Spanish
-and French.
+**Galien** is fandaburg's agent access. [fandaburg](https://fandaburg.com) is
+the social sports exchange for fans — a home where fans follow games together,
+take part in free community polls, follow live match commentary, back their
+teams, and talk about the sports they love: soccer, NFL, NBA, NHL, baseball,
+tennis and more, in English, Spanish and French.
 
 With Galien, a fan can connect their own AI assistant to fandaburg. Once
 connected, the assistant can take part for its fan: read markets and polls,
@@ -71,6 +71,9 @@ Client config:
 ```
 
 Leave the header out for read-only use.
+
+Ready-made configs for Claude Code, Claude Desktop, Cursor and other MCP
+clients live in [examples/](examples/README.md).
 
 ## Tools (12)
 
